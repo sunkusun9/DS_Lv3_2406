@@ -50,7 +50,7 @@ OS: Windows 10 (Windows 11도 가능하지만 결과에 차이가 있을 수 있
     C:\python37\python -m venv python37
 ```
 
-    - 성공하면 python37 경로가 생깁니다.
+- 성공하면 python37 경로가 생깁니다.
 
 
 5. 패키지 설치
