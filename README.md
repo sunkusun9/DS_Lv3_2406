@@ -46,7 +46,7 @@ OS: Windows 10 (Windows 11도 가능하지만 결과에 차이가 있을 수 있
 
 - 설치된 버젼의 python 실행 파일을 사용하여 python37이란 이름으로 가상환경을 만듭니다.
 
-```cmd
+```
     C:\python37\python -m venv python37
 ```
 
